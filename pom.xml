@@ -135,7 +135,7 @@
 			<classifier>mule-plugin</classifier>
 		</dependency>
 		<dependency>
-			<groupId>2b5d277f-f02e-47cb-a37d-54997b5257bb</groupId>
+			<groupId>com.mycompany</groupId>
 			<artifactId>product-sapi</artifactId>
 			<version>1.0.0</version>
 			<classifier>raml</classifier>
