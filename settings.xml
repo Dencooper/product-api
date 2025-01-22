@@ -1,0 +1,12 @@
+<settings>
+	<pluginGroups>
+		<pluginGroup>com.mule.tools</pluginGroup>
+	</pluginGroups>
+	<servers>
+		<server>
+			<id>anypoint-exchange-v3</id>
+			<username>~~~Client~~~</username>
+			<password>fde70570b4694c24995391d449f7051f~?~8e62ed0b39144348Be0C6a694e35CD80</password>
+		</server>
+	</servers>
+</settings>
