@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.mycompany</groupId>
+	<groupId>2b5d277f-f02e-47cb-a37d-54997b5257bb</groupId>
 	<artifactId>product-api</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
@@ -135,7 +135,7 @@
 			<classifier>mule-plugin</classifier>
 		</dependency>
 		<dependency>
-			<groupId>com.mycompany</groupId>
+			<groupId>${project.groupId}</groupId>
 			<artifactId>product-sapi</artifactId>
 			<version>1.0.0</version>
 			<classifier>raml</classifier>
