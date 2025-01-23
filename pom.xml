@@ -38,8 +38,8 @@
 								<properties>
 									<api.id>20164551</api.id>
 									<env>dev</env>
-									<anypoint.platform.client_id>b9357974efb44f56b2d617a155a39a05</anypoint.platform.client_id>
-									<anypoint.platform.client_secret>ac27c985C9904502b78B6774949Eeb66</anypoint.platform.client_secret>
+									<anypoint.platform.client_id>${anypoint.platform.client_id}</anypoint.platform.client_id>
+									<anypoint.platform.client_secret>${anypoint.platform.client_secret}</anypoint.platform.client_secret>
 								</properties>
 							</cloudhub2Deployment>
 						</configuration>
@@ -68,8 +68,8 @@
 								<properties>
 									<api.id>20164552</api.id>
 									<env>test</env>
-									<anypoint.platform.client_id>7fe51119efd247c19d9aae3288946eab</anypoint.platform.client_id>
-									<anypoint.platform.client_secret>Ef969b335f264524A448E926766886D5</anypoint.platform.client_secret>
+									<anypoint.platform.client_id>${anypoint.platform.client_id}</anypoint.platform.client_id>
+									<anypoint.platform.client_secret>${anypoint.platform.client_secret}</anypoint.platform.client_secret>
 								</properties>
 							</cloudhub2Deployment>
 						</configuration>
